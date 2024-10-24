@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:rgb(206, 0, 206);
+    font-size:  rgb(53, 32, 32);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+/*class selector*/
+.jeeven{
+    color: aquamarine;
+    font-size: 16px;
+    background-color: azure;
+}
